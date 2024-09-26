@@ -7,6 +7,8 @@
 
 ### Espero te Agrade y dejes una Estrellita ⭐ me Ayudaría muchísimo.
 
+> `🫶 "Prueba mi primer proyecto ✨MIKU-BOT-MD✨."`
+
 ### 💫 Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad, No te pierdas esta oportunidad de formar parte de nuestra Familia. ¡Te esperamos! ❤️
 
 <div align="center">
