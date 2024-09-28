@@ -7,7 +7,7 @@
 
 ### Espero te Agrade y dejes una Estrellita ⭐ me Ayudaría muchísimo.
 
-> `🫶 "Prueba mi nuevos proyectos ✨Yuki_Suou-Bot✨ / 🌟 MIKU-BOT-MD 🌟."`
+> `🫶 "Prueba mi nuevos proyectos ✨Yuki_Suou-Bot✨/🌟MIKU-BOT-MD🌟."`
 
 ### 💫 Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad, No te pierdas esta oportunidad de formar parte de nuestra Familia. ¡Te esperamos! ❤️
 
