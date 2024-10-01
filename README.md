@@ -22,8 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GataNina-Li&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="GataNina-Li"/>
 <br><br>
 </a>
-
 <p align="center"> 
-<img src="https://github.com/The-King-Destroy/GataNina-Li/blob/main/line.gif" width="400vw"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
