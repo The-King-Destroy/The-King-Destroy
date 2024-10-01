@@ -19,6 +19,10 @@
 <a href="mailto:thekingdestroy507@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 <a href="https://wa.me/qr/6ZXZS2SNNKAHI1"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GataNina-Li&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="GataNina-Li"/>
+<br><br>
+</a>
+
 <p align="center"> 
 <img src="https://github.com/The-King-Destroy/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
