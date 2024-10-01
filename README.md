@@ -23,16 +23,14 @@
 </div>
 <div align="center">
 <a href="https://github.com/The-King-Destroy/"><img src="https://github-readme-stats.vercel.app/api?username=The-King-Destroy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GataNina-Li&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="GataNina-Li"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-King-Destroy&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="The-King-Destroy"/>
 <br><br>
 </a>
-<p align="center"> 
-<img src="https://github.com/The-King-Destroy-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
-</p> 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <p align="center"> 
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+<img src="https://github.com/The-King-Destroy/The-King-Destroy/blob/main/line.gif" width="400vw"> 
 </p> 
 
 <a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=The-King-Destroy&repo=Yuki_Suou-Bot&theme=purple)</a>
