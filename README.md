@@ -25,3 +25,5 @@
 <img src="https://github.com/The-King-Destroy-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot.git">![github card](https://github-readme-stats.vercel.app/api/pin/?username=The-King-Destroy&repo=Yuki_Suou-Bot2&theme=ambient_gradient)</a>
