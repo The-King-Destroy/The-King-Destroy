@@ -18,3 +18,8 @@
 <a href="https://atom.bio/thekingdestroy507"><img height="40" src="https://cdn.icon-icons.com/icons2/566/PNG/128/link_icon-icons.com_54349.png"></a>
 <a href="mailto:thekingdestroy507@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 <a href="https://wa.me/qr/6ZXZS2SNNKAHI1"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
+
+<p align="center"> 
+<img src="https://github.com/The-King-Destroy/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
