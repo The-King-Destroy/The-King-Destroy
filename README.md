@@ -31,3 +31,4 @@
 </p> 
 
 <a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=The-King-Destroy&repo=Yuki_Suou-Bot&theme=purple)</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
